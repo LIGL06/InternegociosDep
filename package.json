@@ -6,6 +6,10 @@
     "express": "2.5.8",
     "jade": ">= 0.0.1"
   },
+  "engines":{
+    "node": "0.10.31",
+    "npm": ">=1.4"
+  },
   "description": "App de Deploy para Internegocios ",
   "main": "app.js",
   "devDependencies": {},
