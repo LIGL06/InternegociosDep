@@ -1,9 +1,26 @@
 {
-    "name": "application-name"
-  , "version": "0.0.1"
-  , "private": true
-  , "dependencies": {
-      "express": "2.5.8"
-    , "jade": ">= 0.0.1"
-  }
+  "name": "internegocios",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "2.5.8",
+    "jade": ">= 0.0.1"
+  },
+  "description": "App de Deploy para Internegocios ",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/LIGL06/InternegociosDep.git)"
+  },
+  "keywords": [
+    "Internegocios",
+    "Emprender",
+    "Tecnologías"
+  ],
+  "author": "Luis Iván García Luna",
+  "license": "MIT"
 }
